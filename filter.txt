@@ -2,3 +2,6 @@
 ||api.presonus.com^
 ||updates.presonus.com^
 ||api.presonus.com.cdn.cloudflare.com^
+||genuine-software.autodesk.com^
+||genuine-software1.autodesk.com^
+||genuine-software2.autodesk.com^

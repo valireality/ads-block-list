@@ -1,0 +1,4 @@
+||registration.presonus.com^
+||api.presonus.com^
+||updates.presonus.com^
+||api.presonus.com.cdn.cloudflare.com^
